@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 FlowPay: Transaction Management & Business Intelligence System
 
 🚀 Project Overview
