@@ -1,0 +1,35 @@
+# Environment variables
+.env
+*.env
+
+# Database
+*.sqlite3
+db.sqlite3
+flowpay_db.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+flowpay_env/
+
+# Node modules (React)
+dashboard/node_modules/
+dashboard/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
