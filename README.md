@@ -53,24 +53,24 @@ Requirements Engineering
 🎯 Key Features
 Transaction Management:
 
-Multi-Payment Support: Cash, Credit Card, UPI, Apple Pay, Google Pay
-Automated Fee Calculation: Real-time processing fee computation based on payment method
-Audit Trail: Complete transaction history with user accountability
-Data Validation: Built-in business rule enforcement and error prevention
+1. Multi-Payment Support: Cash, Credit Card, UPI, Apple Pay, Google Pay
+2. Automated Fee Calculation: Real-time processing fee computation based on payment method
+3. Audit Trail: Complete transaction history with user accountability
+4. Data Validation: Built-in business rule enforcement and error prevention
 
 Business Intelligence Dashboard:
 
-Real-Time KPIs: Total revenue, processing fees, net amounts, transaction counts
-Payment Method Performance: Revenue breakdown and transaction volume by payment type
-Cashier Performance Tracking: Individual sales performance and rankings
-Business Insights: Automated analysis of payment trends and fee optimization
+1. Real-Time KPIs: Total revenue, processing fees, net amounts, transaction counts
+2. Payment Method Performance: Revenue breakdown and transaction volume by payment type
+3. Cashier Performance Tracking: Individual sales performance and rankings
+4. Business Insights: Automated analysis of payment trends and fee optimization
 
 Administrative Interface:
 
-Django Admin Integration: User-friendly interface for managing transactions and payment methods
-Payment Method Configuration: Flexible fee structures and activation controls
-Transaction Monitoring: Real-time view of all payment activities
-User Management: Role-based access control for different stakeholder types
+1. Django Admin Integration: User-friendly interface for managing transactions and payment methods
+2. Payment Method Configuration: Flexible fee structures and activation controls
+3. Transaction Monitoring: Real-time view of all payment activities
+4. User Management: Role-based access control for different stakeholder types
 
 📊 Business Impact Metrics
 
@@ -103,10 +103,12 @@ Backend Setup:
 
 bash
 # Clone repository
+
 git clone https://github.com/yourusername/flowpay.git
 cd flowpay
 
 # Create virtual environment
+
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
 
@@ -133,8 +135,8 @@ npm start
 
 Initial Data Setup:
 
-bash
 # Create sample payment methods
+
 python manage.py shell
 pythonfrom store.models import PaymentMethod
 
@@ -189,8 +191,8 @@ Response:
 
 Transaction Management API
 
-bash
 # Create new transaction
+
 POST /api/payments/
 {
     "amount": 100.00,
@@ -293,7 +295,3 @@ Phase 3: AI Integration (Future)
 🤝 Contributing
 This project was developed as a Business Analyst portfolio demonstration. While primarily for showcase purposes, suggestions and feedback are welcome through GitHub issues.
 =======
-# FlowPay - Transaction Management & Business Intelligence System
-
-Transaction Management & Business Intelligence System | Django + React | Business Analyst Portfolio demonstrating stakeholder analysis, process automation, and real-time business insights
->>>>>>> 76f499411f2593fa065b851926592a76ccaa50f1
