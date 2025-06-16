@@ -20,6 +20,7 @@ flowpay_env/
 # Node modules (React)
 dashboard/node_modules/
 dashboard/build/
+node_modules/
 
 # IDE
 .vscode/
