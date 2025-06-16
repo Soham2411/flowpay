@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 FlowPay: Transaction Management & Business Intelligence System
 
 🚀 Project Overview
@@ -228,19 +227,23 @@ flowpay/
 
 🎨 Screenshots
 FlowPay Business Dashboard:
-Show Image
+![image](https://github.com/user-attachments/assets/0ac3d3a0-0ea2-4132-902f-f92b7c9fdecd)
+
 Real-time analytics dashboard showing KPIs, payment method performance, and cashier rankings
 
 Django Admin - Transaction Management
-Show Image
+![image](https://github.com/user-attachments/assets/d84f64a1-7f82-420b-b584-c0ec6e15e9f0)
+
 Administrative interface for managing payments with automated fee calculations
 
 Django Admin - Payment Methods
-Show Image
+![image](https://github.com/user-attachments/assets/1c81853a-0316-4847-9bc3-05c72ae3d697)
+
 Configuration interface for payment methods and processing fees
 
 API Response Example
-Show Image
+![image](https://github.com/user-attachments/assets/19d1ffa8-f30e-4775-9d51-b720a7ae74e2)
+
 REST API providing real-time business analytics data to the dashboard
 
 📈 Business Process Flow
