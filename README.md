@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FlowPay: Transaction Management & Business Intelligence System
 
 🚀 Project Overview
@@ -288,3 +289,8 @@ Phase 3: AI Integration (Future)
 
 🤝 Contributing
 This project was developed as a Business Analyst portfolio demonstration. While primarily for showcase purposes, suggestions and feedback are welcome through GitHub issues.
+=======
+# FlowPay - Transaction Management & Business Intelligence System
+
+Transaction Management & Business Intelligence System | Django + React | Business Analyst Portfolio demonstrating stakeholder analysis, process automation, and real-time business insights
+>>>>>>> 76f499411f2593fa065b851926592a76ccaa50f1
